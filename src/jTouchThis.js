@@ -213,9 +213,9 @@ var Tmax=10000;                        //MAX # OF MILLISECONDS BETWEEN PARAMETER
 //FLOATING IMAGE URLS FOR EACH IMAGE. ADD OR DELETE ENTRIES. KEEP ELEMENT NUMERICAL ORDER STARTING WITH "0" !!
 
 var floatimages=new Array();
-floatimages[0]='http://24.media.tumblr.com/4cab05419bf1de1d33808c3ad2971d49/tumblr_mrai10ffnA1qb14uyo1_250.gif';
-floatimages[1]='http://www.wilsoninfo.com/butterfly/butterfly-flying-away.gif';
-floatimages[2] = 'http://www.sherv.net/cm/emoticons/memes/troll-meme-smiley-emoticon.gif';
+floatimages[0]='https://raw.githubusercontent.com/cpradio/jTouchThis/master/images/message-1.gif';
+floatimages[1]='https://raw.githubusercontent.com/cpradio/jTouchThis/master/images/message-2.png';
+floatimages[2]='https://raw.githubusercontent.com/cpradio/jTouchThis/master/images/message-3.gif';
 
 //*********DO NOT EDIT BELOW***********
 var NS4 = (navigator.appName.indexOf("Netscape")>=0 && parseFloat(navigator.appVersion) >= 4 && parseFloat(navigator.appVersion) < 5)? true : false;

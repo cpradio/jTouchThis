@@ -1,5 +1,6 @@
 <img src="https://raw.githubusercontent.com/cpradio/jTouchThis/master/images/logo.png" />
 # jTouchThis
+<img src="https://raw.githubusercontent.com/cpradio/jTouchThis/master/images/build-status.png" />
 A pure JavaScript library that turns any screen into a touch screen. From that old CRT sitting in your basement, 
 to the new LED sitting on your desk, this will enable you to use touch to make your pages more interactive!
 

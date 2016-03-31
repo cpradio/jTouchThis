@@ -22,3 +22,8 @@ Simply copy the files in /src/ into a folder on your site and reference it using
 - Add templates for the H.U.D. capabilities to help improve customization.
 - Add translations for light tap tooltips
 - Remind everyone this is an April Fool's Joke
+
+## Contributors
+- guido2004 for helping with the media creation
+- jeffreylees for motivating me by telling me "I can't do it!" (doubter!)
+- technobear for support and encouraging me every time jeffreylees say I couldn't do it!

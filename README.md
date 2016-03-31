@@ -19,8 +19,10 @@ Simply copy the files in /src/ into a folder on your site and reference it using
 `<script src="/src/jTouchThis.min.js>` at the bottom of your page near the `</body>` tag.
 
 ## To Do
+- Add Apple's "Force Touch" support
 - Add templates for the H.U.D. capabilities to help improve customization.
 - Add translations for light tap tooltips
+- Get better pictures to showcase jTouchThis' abilities
 - Remind everyone this is an April Fool's Joke
 
 ## Contributors
